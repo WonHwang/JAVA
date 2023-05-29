@@ -21,7 +21,7 @@ public class P140107 {
 
     public static void main(String[] args) {
         System.out.println(solution(3, 1000000)); // 87266796053
-        System.out.println(solution(5, 1000000)); // 31416126106
+        System.out.println(solution(5, 1000000)); // 3141612610 6
     }
 
 }
