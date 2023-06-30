@@ -11,6 +11,6 @@ public class P12912 {
             a = tmp;
         }
         for (int i=a; i<=b; i++) answer += (long) i;
-        return answer;g
+        return answer;
     }
 }
