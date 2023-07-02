@@ -1,6 +1,6 @@
 package FirstPackage;
 
-import java.util.Arrays
+import java.util.Arrays;
 public class P12944 {
 
     public static double solution(int[] arr) {
