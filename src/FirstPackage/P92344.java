@@ -15,7 +15,7 @@ public class P92344 {
             int r1, r2, c1, c2;
             r1 = sk[1];
             c1 = sk[2];
-            r2g = sk[3];
+            r2 = sk[3];
             c2 = sk[4];
 
             acc[r1][c1] += degree;
